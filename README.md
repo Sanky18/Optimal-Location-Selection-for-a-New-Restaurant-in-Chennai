@@ -41,11 +41,11 @@ The above image shows the map of Chennai with clusters marked using different co
 Please refer to the notebook for more detailed explanations and code implementation.
 
 
-## Repository Structure
-- **data**: Directory containing input data used in the analysis.
+## Structure
+- **Data Source**: Wikipedia (https://en.wikipedia.org/wiki/Areas_of_Chennai)
 - **notebooks**: Directory containing Jupyter notebooks for each step of the analysis.
-- **results**: Directory containing intermediate and final results obtained from the analysis.
-- **requirements.txt**: File listing the dependencies and libraries required to run the code.
+- **results**: Repository containing intermediate and final results obtained from the analysis.
+- **gitignore**: File listing the dependencies and libraries required to run the code.
 
 
 Please refer to the individual notebooks for more detailed explanations and code implementation.
